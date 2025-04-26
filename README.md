@@ -70,3 +70,7 @@ MVC Sederhana/
 - URL tidak valid akan menampilkan halaman 404 custom.
 
 ## This project was crafted with ❤️ sama popmi
+
+![PHP](https://img.shields.io/badge/PHP-8.2-blue?logo=php)
+![MVC](https://img.shields.io/badge/Pattern-MVC-orange)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
